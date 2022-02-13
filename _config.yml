@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Story of Creativity"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Ideas without action are worthless."
 name                     : "SEUNGCHAN LIM"
-description              : "Ideas without action are worthless."
+description              : "This is SEUNGCHAN's journal"
 url                      : "https://SeungchanLim97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SEUNGCHAN LIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an explorer equipped with a global mindset and forward-thinking."
+  location         : "South Korea"
+  email            : "seungchan123@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
