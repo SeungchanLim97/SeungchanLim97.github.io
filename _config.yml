@@ -108,13 +108,9 @@ author:
   location         : "South Korea"
   email            : "seungchan123@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seungchan123@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/seungchan.lim.7/"
@@ -128,7 +124,9 @@ author:
 # Site Footer
 footer:
   links:
-
+      - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:seungchan123@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/seungchan.lim.7/"
